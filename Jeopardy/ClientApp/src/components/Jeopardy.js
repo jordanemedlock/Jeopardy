@@ -117,100 +117,101 @@ export class Jeopardy extends Component {
                     category: "Avengers",
                     questions: [
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 1000,
+                            question: "How many Infinity Stones are there in the MCU?",
+                            answer: "6: Space (Blue), Mind (Yellow), Power (Purple), Time (Green), Reality (Red), and Soul (Orange)",
+                            price: 100,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
+                            question: "What movie did Thanos first appear in?",
+                            answer: "Avengers",
                             price: 500,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 100,
-                        }
+                            question: "How many Spider-Man movies have been released in the US since 2000?",
+                            answer: "8: Spider-Man 1-3, Amazing Spider-Man 1-2, Spiderman: Homecomming, Spider-Man: Far from Home, Into the Spider-Verse",
+                            price: 1000,
+                        },
                     ]
                 },
                 {
                     category: "Science",
                     questions: [
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 1000,
+                            question: "The earth has three layers of varying temperatures and materials. What are these layers?",
+                            answer: "Crust, mantle and core",
+                            price: 100,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
+                            question: "What part of the brain deals with hearing and language?",
+                            answer: "Temporal Lobe",
                             price: 500,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 100,
-                        }
+                            question: "What are the only two egg-laying mammals in the world today?",
+                            answer: "Echidna and Platypus",
+                            price: 1000,
+                        },
                     ]
                 },
                 {
                     category: "Hiking",
                     questions: [
+
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 1000,
+                            question: "How many leaves are in a cluster on a poison ivy plant?",
+                            answer: "3",
+                            price: 100,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
+                            question: "What should a hiker do if they encounter a grizzly bear?",
+                            answer: "Lie face-down and cover your head with your arms/play dead",
                             price: 500,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 100,
-                        }
+                            question: "What is the longest hiking train in North America?",
+                            answer: "American Discovery Trail",
+                            price: 1000,
+                        },
                     ]
                 },
                 {
                     category: "Biking",
                     questions: [
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 1000,
+                            question: "What is the core of a bicycle called?",
+                            answer: "The frame",
+                            price: 100,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
+                            question: "What were the early bicycles that featured huge front wheels and small rear wheels called?",
+                            answer: "Penny-Farthing Bicycles",
                             price: 500,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 100,
-                        }
+                            question: "When was the first pedal powered bicycle invented?",
+                            answer: "1866 (Will accept late 19th century)",
+                            price: 1000,
+                        },
                     ]
                 },
                 {
                     category: "Cooking",
                     questions: [
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 1000,
+                            question: "What ingredients are used in \"Ants on a log\"",
+                            answer: "Celery peanut butter and raisins",
+                            price: 100,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
+                            question: "What's the difference between a convection oven and a conventional oven?",
+                            answer: "A convection oven uses a fan.",
                             price: 500,
                         },
                         {
-                            question: "Something",
-                            answer: "Some Answer",
-                            price: 100,
-                        }
+                            question: "Which of these is an 18th-century word for flattening chicken for quick cooking?",
+                            answer: "Spatchcocking",
+                            price: 1000,
+                        },
                     ]
                 }
             ]
